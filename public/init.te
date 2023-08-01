@@ -383,6 +383,7 @@ allow init {
   proc_bpf
   proc_cpu_alignment
   proc_dirty
+  proc_firmware_config
   proc_hostname
   proc_hung_task
   proc_extra_free_kbytes
